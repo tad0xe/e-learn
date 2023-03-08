@@ -9,6 +9,7 @@
     "node": ">=14 <15"
   },
   "dependencies": {
+    "async": "^3.2.4",
     "bcryptjs": "*",
     "body-parser": "~1.13.2",
     "connect-flash": "*",
