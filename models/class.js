@@ -44,7 +44,7 @@ module.exports.addLesson = function(info, callback) {
         lessons: {
           lesson_number: lesson_number,
           lesson_title: lesson_title,
-          lesson_body: lesson_body
+          lesson_body: lesson_body,
         }
       }
     },
